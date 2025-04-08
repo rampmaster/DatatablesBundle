@@ -1,5 +1,5 @@
 {
-    "name": "sg/datatablesbundle",
+    "name": "rampmaster/datatablesbundle",
     "type": "symfony-bundle",
     "description": "Symfony Datatable Bundle For Doctrine2 Entities",
     "keywords": ["symfony", "datatable", "datatables", "data-table", "grid", "table", "datagrid", "pagination"],
